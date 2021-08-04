@@ -1,0 +1,43 @@
+/*********
+C BASIC CODES 01
+Topics Covered:
+
+Keywords & Identifier
+Variables & Constants
+C Data Types
+C Input/Output
+
+*********/
+
+1.	C "Hello, World!" Program
+2.	C Program to Print Data: Name, Job and DOB
+3.	C Program to Understand Escape Sequences
+4.	C Program to Print an Integer
+5.	C Program to Print an Integer (Input by the User)
+6.	C Program to Print a Float (Input by the User)
+7.	C Program to Print Double (Input by the User)
+8.	C Program to Print a Character (Input by the User)
+9.	C Program to Add Two Integers
+10.	C Program to Add Two Integers (Input by the User)
+11.	C Program to Add Two Integers using Float
+12.	C Program to Multiply Two Floating-Point Numbers
+13.	C Program to Compute Quotient and Remainder
+14.	C Program to Find Sum, Difference, Product, Quotient(Float) and Remainder of two values
+15.	C Program to find Average of Three Numbers
+16.	 C Program to find Area of the Triangle
+17.	 C Program to Find the Area of a Circle
+18.	 C Program to Convert the temperature from Fahrenheit to Kelvin
+19.	 C Program to Convert the temperature from Celcius to Fahrenheit
+20.	 C Program using Math Header File (pow)
+21.	 C Program using Math Header File (log, log10, sqrt)
+22.	 C Program using Math Header File (Area of Circle)
+23.	 C Program to Swap an Integer 
+24.	 C Program to Swap Two Numbers without temporary space C
+25.	 C Program to Find ASCII Value of a Character
+26.	 C Program to Find a Character by ASCII Value
+27.	 C Program to Find the Size of int, float, double and char
+28.	 C Program to show the Size of Keyword Long
+29.	 C Program to apply Right Justify
+30.	 C Program to Print Multiple Arguments
+      
+
